@@ -12,6 +12,18 @@ Four types of classifier algorithms will be tested:
 4.	Support Vector Classification
 
 
+
+## Project Purpose
+
+This project will build a machine learning model to predict the outcome of a marketing campaign for each client of a bank. This will allow the bank to focus its marketing efforts on the clients that are most likely to respond positively to the campaign.
+
+Four types of classifier algorithms will be tested:
+1.	Logistic Regression
+2.	Random Decision Forest
+3.	K-Nearest Neighbours
+4.	Support Vector Classification
+
+
 ## Repository Contents
 
 This repository contains a file for each stage of the project:
