@@ -14,7 +14,7 @@ Four types of classifier algorithms will be tested:
 
 ## Repository Contents
 
-This repository contains a file for each stage of a project to build a predictive model:
+This repository contains a file for each stage of the project:
 1.	Project Proposal
 2.	Data Cleaning, Exploration and Preparation
 3.	Feature Selection
