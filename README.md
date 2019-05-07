@@ -3,7 +3,7 @@
 
 ## Project Purpose
 
-The purpose of the machine learning model is to allow a bank to predict the outcome of a marketing campaign for each of its clients. This will allow the bank to focus its efforts on the clients that are most likely to respond positively to the campaign.
+This project will build a machine learning model to allow a bank to predict the outcome of a marketing campaign for each of its clients. This will allow the bank to focus its efforts on the clients that are most likely to respond positively to the campaign.
 
 Four types of classifier algorithms were tested:
 1.	Logistic Regression
@@ -25,6 +25,6 @@ This repository contains a file for each stage of a project to build a predictiv
 
 ## Executing the Code
 
-The code was written using Python 3 with Jupyter Notebooks.
+Download the dataset and the Jupyter notebook from this repository.
 
 Place the dataset in the top directory of the “C” drive, or modify the Jupyter notebook so that it reads the dataset from the directory of your choice.
