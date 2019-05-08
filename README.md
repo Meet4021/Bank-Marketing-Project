@@ -1,7 +1,7 @@
 ﻿# Predictive Analytics for a Bank Marketing Campaign
 
 
-## Purpose
+## Objective
 
 This project will build a machine learning model to predict the outcome of a marketing campaign for each client of a bank. This will allow the bank to focus its marketing efforts on the clients that are most likely to respond positively to the campaign.
 
