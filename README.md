@@ -28,4 +28,4 @@ It also contains the Python code (within a Jupyter notebook) and the dataset.
 
 Download the Jupyter notebook and the dataset files from this repository.
 
-Place the dataset in the top directory of the “C” drive, or modify the Jupyter notebook so that it reads the dataset from the directory of your choice.
+Place the dataset in the top directory of the “C” drive, or modify the Jupyter notebook so that it reads the dataset from the location of your choice.
