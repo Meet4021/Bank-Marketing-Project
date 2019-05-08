@@ -14,7 +14,7 @@ Four types of classification algorithms will be tested:
 
 ## Repository Contents
 
-This repository contains a file for each stage of the project:
+This repository contains a report for each stage of the project:
 1.	Project Proposal
 2.	Data Cleaning, Exploration and Preparation
 3.	Feature Selection
@@ -22,7 +22,7 @@ This repository contains a file for each stage of the project:
 5.	Project Presentation
 6.	Final Project Report
 
-It also contains the dataset and the Python code within a Jupyter notebook.
+It also contains the Python code (within a Jupyter notebook) and the dataset.
 
 ## Executing the Code
 
